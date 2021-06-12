@@ -1,14 +1,27 @@
-# Basic_Banking_System Sparks Foundation
-A website created for basic banking operations using HTML,CSS,Bootstrap,Javascript,PHP and MYSQL database.
+# Basic-Banking-System
+First Project during my Internship at **The Sparks Foundation**
 
-Sparks Foundation Internship Project : Basic Banking System
-A Web Application used to transfer money between multiple users (Project contains 10 dummy users). A dummy user can also be created.
 
-Stack used - Front-end : HTML, CSS, Bootstrap & Javascript Back-end : PHP Database : MySQL
+# AIM
+Create a simple dynamic website which has the following specs.</br>
+ - Start with creating a dummy data in database for upto 10 customers.
+   Database options: Mysql, Mongo, Postgres, etc. Customers table will
+   have basic fields such as name, email, current balance etc. Transfers
+   table will record all transfers happened.
 
-Database contains two Tables- Users Table & Transaction Table
-
-User table have basic fields such as name, email & current balance.
-Transaction table records all transfers happened along with their time.
-Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select receiver > View all Users > View Transaction History.
-
+-  Flow: Home Page > View all Customers > Select and View one Customer >
+   Transfer Money > Select customer to transfer to > View all Customers
+   
+-  No Login Page. No User Creation. Only transfer of money between
+   multiple users.
+   
+-  Host the website at 000webhost, github.io, heroku app or any other free
+   hosting provider. Check in code in github.
+   
+   
+# Tech Stack
+FRONT END : HTML, CSS, JavaScript, Bootstrap<br>
+BACK END : PHP<br>
+DATABASE : MySQL<br>
+<br>
+This website is hosted at infinityfree : http://thesparksbank.epizy.com/
