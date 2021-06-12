@@ -1,3 +1,7 @@
+# COPYRIGHT BY - SUMIT SURESH GOLE 
+
+# THE SPARKS FOUNDATION
+
 # Basic-Banking-System
 First Project during my Internship at **The Sparks Foundation**
 
