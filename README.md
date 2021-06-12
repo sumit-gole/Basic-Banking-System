@@ -2,7 +2,7 @@
 
 # THE SPARKS FOUNDATION
 
-# Basic-Banking-System
+# BASIC BANKING SYSTEM
 First Project during my Internship at **The Sparks Foundation**
 
 
